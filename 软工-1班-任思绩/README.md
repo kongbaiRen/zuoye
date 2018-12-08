@@ -39,3 +39,10 @@ source/Map　　存储游戏的地图文件<br>
   <img src="https://github.com/kongbaiRen/TXZ-/图片1.png"/>
 </div>
 
+游戏运行图：
+<div align=center>
+  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220006.png"/>
+  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207215952.png"/>
+  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220013.png"/>
+  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220020.png"/>
+</div>
