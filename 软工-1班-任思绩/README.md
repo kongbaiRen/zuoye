@@ -42,6 +42,8 @@ source/Map　　存储游戏的地图文件<br>
 游戏运行图：
 
 
+![](https://github.com/kongbaiRen/TXZ-/blob/master/QQ图片20181207220006.png)
 ![](https://github.com/kongbaiRen/TXZ-/blob/master/QQ图片20181208100622.png)
-
-
+![](https://github.com/kongbaiRen/TXZ-/blob/master/QQ图片20181207220013.png)
+![](https://github.com/kongbaiRen/TXZ-/blob/master/QQ图片20181208100622.png)
+![](https://github.com/kongbaiRen/TXZ-/blob/master/QQ图片20181207220020.png)
