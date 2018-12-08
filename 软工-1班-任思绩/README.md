@@ -35,19 +35,10 @@ source/Map　　存储游戏的地图文件<br>
 
 简要流程框图：
 
-<div align=center>
-  <img src="https://github.com/kongbaiRen/TXZ-/图片1.png"/>
-</div>
+![]https://github.com/kongbaiRen/TXZ-/blob/master/图片1.png
 
 游戏运行图：
-<div align=center>
-  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220006.png"/>
-  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207215952.png"/>
-  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220013.png"/>
-  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220020.png"/>
-  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181208100622.png"/>
-  
-</div>
+
 
 ![](https://github.com/kongbaiRen/TXZ-/blob/master/QQ图片20181208100622.png)
 
