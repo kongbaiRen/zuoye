@@ -45,4 +45,5 @@ source/Map　　存储游戏的地图文件<br>
   <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207215952.png"/>
   <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220013.png"/>
   <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181207220020.png"/>
+  <img src="https://github.com/kongbaiRen/TXZ-/QQ图片20181208100622.png"/>
 </div>
