@@ -35,3 +35,4 @@ source/Map　　存储游戏的地图文件<br>
 
 简要流程框图：
 
+![https://github.com/kongbaiRen/TXZ-/图片1.png]
